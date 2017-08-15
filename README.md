@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
-* [`2.4.0`, `2.4`, `2`, `latest` (2.4/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/27ca49aed37b6a8ddddba02dc498840824fd6b3e/Dockerfile)
+* [`2.4.0`, `2.4`, `2`, `latest` (2.4/Dockerfile)](https://github.com/sticksnleaves/docker-graphdoc/blob/f10e1afa7273d67a2b7c2402ff580f65f39267df/2.4/Dockerfile)
 
 # How to use this image
 
